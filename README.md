@@ -3,7 +3,6 @@ ubb-elasticsearch-river
 
 UBB ElasticSearch River Plugin (ubb-elasticsearch-river) is in the initial stage of developments but at the end, the plugin will be able to do the following:-
 
-<br>
 •	Harvest RDF data locally from Jena TDB using SPARQL queries
 <br>
 •	Create a graph (model) based on the data retrieved from Jena TDB
