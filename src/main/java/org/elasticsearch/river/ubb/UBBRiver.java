@@ -33,7 +33,7 @@ public class UBBRiver extends AbstractRiverComponent implements River {
          * Using Google Guice to inject (pass as patameters) dependencies upon the creation of this instance (at run-time). 
          * Inject acts like an abstract class that manages dependencies for you.
          * This approach makes the application loosely coupled and adheres to the dependency inversion 
-         * and single responsibility principles.  See Google Guice for more details.
+         * and single responsibility principles. See Google Guice for more details.
          **/
 
 	@Inject
