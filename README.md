@@ -1,4 +1,4 @@
-ubb-elasticsearch-river
+ubb-elasticsearch-river (depricated)
 =======================
 
 UBB ElasticSearch River Plugin (ubb-elasticsearch-river) is in the initial stage of developments but at the end, the plugin will be able to do the following:-
