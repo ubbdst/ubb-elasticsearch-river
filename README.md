@@ -1,6 +1,8 @@
 ubb-elasticsearch-river (depricated)
 =======================
 
+#### Se https://github.com/ubbdst/elasticsearch-rdf-river
+
 UBB ElasticSearch River Plugin (ubb-elasticsearch-river) is in the initial stage of developments but at the end, the plugin will be able to do the following:-
 
 •	Harvest RDF data locally from Jena TDB using SPARQL queries
